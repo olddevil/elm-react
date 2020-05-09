@@ -1,0 +1,1 @@
+export const CAROUSEL_DATA = 'carousel_data'
